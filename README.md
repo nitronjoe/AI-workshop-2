@@ -1,1 +1,8 @@
-# AI-workshop-2
+# vacuum
+Run the game using: __python3 game.py__
+
+
+
+
+
+
